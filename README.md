@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 ## Installation
 Clone the repository:
 ```bash
- git clone https://github.com/yourusername/String-B-Tree.git
+ git clone https://github.com/zeofr/String-B-Tree.git
  cd String-B-Tree
 ```
 
@@ -57,11 +57,8 @@ Run the program:
 This project is licensed under the MIT License. Feel free to modify and distribute it.
 
 ## Contributors
-- **Your Name** - [GitHub](https://github.com/yourusername)
+- **zeofr** - [GitHub](https://github.com/zeofr)
 
 Feel free to contribute to this project by submitting pull requests!
-
----
-Happy Coding! 🚀
 
 
